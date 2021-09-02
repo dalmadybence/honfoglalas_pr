@@ -16,7 +16,7 @@ Jurta magassága: 3-4 méter.
 
 Jurta beltere:
 Jurta egy hengerből és kúpból áll.
-Henger területe: r * r * 3,14 * H = 2,25 * 2,25 * 3,14 * 2m = 15,89 * 2m = 31,7925
+Henger térfogata: r * r * 3,14 * H = 2,25m * 2,25m * 3,14 = 15,89 
 
 
 
