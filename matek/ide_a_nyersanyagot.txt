@@ -27,11 +27,11 @@ Főbb jellemzők:
 • korszerű és innovatív
 
 Jurta átmérője: 4,5 méter
-Jurta magassága: 3-4 méter.
+Jurta magassága: 4 méter.
 
  
-Jurta belteé kiszámítása:
-Jurta egy hengerből és kúpból áll.
+Jurta belterének kiszámítása:
+Jurta alakzata egy hengerből és kúpból áll.
 Henger Térfogat: r * r * 3,14 * H = 2,25m * 2,25m * 3,14 * 2m = 15,89 m2 * 2m = 31,7925 m3
 Henger kerülete: 4,5* 3,14 = 14,13
 Henger Területe: r * r * 3,14 = 2,25m * 2,25m * 3,14 =  15,89 m2
