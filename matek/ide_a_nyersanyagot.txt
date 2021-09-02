@@ -14,9 +14,9 @@ Főbb jellemzők:
 Jurta átmérője: 4,5 méter
 Jurta magassága: 3-4 méter.
 
+Jurta beltere:
 Jurta egy hengerből és kúpból áll.
-Henger területe: r*r *3,14 * = 2,25 * 2,25 * 3,14 = 15,89 * 2 
-kúp területe: 
+Henger területe: r * r * 3,14 * H = 2,25 * 2,25 * 3,14 * 2m = 15,89 * 2m =
 
 
 
