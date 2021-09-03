@@ -1,3 +1,5 @@
+Jurta
+
 A jurta a vándorló nomádok, jellemzően a közép-ázsiai és kelet-szibériai nomád török és mongol népek favázra épített kerek nemezsátra. A honfoglalás kori magyaroknak is lakóépülete volt. A nagy állattartó közösségekhez köthető életforma során alakult ki ez a rácsos falú, kupolás tetejű, nemezzel borított, sátorszerű építmény. A jurta jelentősége abban állt, hogy szétszerelve könnyen tovább lehetett vele vándorolni, ami az évszakok változása által meghatározott sztyeppei életmód (téli–nyári szállás), a költözködés szempontjából rendkívüli fontossággal bírt.
 
 Jurta anyagai: A jurta rácsszerkezetéhez göcsmentes vörösfenyő, vagy kőrisfa léceket használunk. A léceket gőzölve hajlítjuk, hogy a rácsszerkezet szépen kövesse a kör ívét, hajlítás nélkül ugyanis a lécek homorúak lennének a rácsban.
@@ -42,6 +44,10 @@ Júrta légtér  = Henger Térfogata + Kúp térfogata = 31,7925 + 3,375 =  35,1
 Júrta beltere 35,1675 m3 
 
 
+
+Íjászat
+
+Az íjászat a nyílvesszők íjjal való kilövését jelentő tevékenység, magyarul a nyilazás. A történelem során a vadászat és a hadviselés volt a két legfontosabb alkalmazási területe, napjainkban sportként él tovább. A honfoglalás kori (és annál is korábbi) magyarok a sztyeppei népekhez hasonlóan, életmódjukból fakadóan kiváló lovasíjászok voltak. Ezt tanúsítja a híres középkori fohász is: „A magyarok nyilaitól ments meg, Uram, minket!”. Visszacsapó íjakat használtak. Az íjászat az államalapítás után sem tűnt el Magyarországról. Mindig is voltak könnyűlovas egységek, akik ezt a harcmodort folytatták, például a székelyek és kunok. Az íj egészen a végvári harcok idejéig használatban maradt.
 
 
 
