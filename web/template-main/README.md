@@ -1,3 +1,3 @@
 # weblap-base
 
-A "kreditek" fül készen van, csak a hátteret kell lecserélni
+Már majdnem készen van, de még tartalmaz placeholder képet/szövegeket.
