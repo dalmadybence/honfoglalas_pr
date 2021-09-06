@@ -35,19 +35,22 @@ Jurta magassága: 4 méter.
 Jurta belterének kiszámítása:
 Jurta alakzata egy hengerből és kúpból áll.
 Henger Térfogat: r * r * 3,14 * H = 2,25m * 2,25m * 3,14 * 2m = 15,89 m2 * 2m = 31,7925 m3
-Henger kerülete: 4,5* 3,14 = 14,13
-Henger Területe: r * r * 3,14 = 2,25m * 2,25m * 3,14 =  15,89 m2
-Kúp térfogat: (r2* 3,14 *H) / 3  = (2,25m * 2,25m * 3,14 * 2) / 3 =3,375
+Henger alapkörének kerülete: 4,5* 3,14 = 14,13
+Henger alapkörének területe: r * r * 3,14 = 2,25m * 2,25m * 3,14 =  15,89 m2
+Kúp térfogat: (r * r * 3,14 * H) / 3  = (2,25m * 2,25m * 3,14 * 2) / 3 =3,375
 
-Júrta légtér  = Henger Térfogata + Kúp térfogata = 31,7925 + 3,375 =  35,1675
-
+Júrta légtér  = Henger Térfogata + Kúp térfogata = 31,7925 + 3,375 =  35,1675 m3
 Júrta beltere 35,1675 m3 
 
 
 
 Íjászat
 
-Az íjászat a nyílvesszők íjjal való kilövését jelentő tevékenység, magyarul a nyilazás. A történelem során a vadászat és a hadviselés volt a két legfontosabb alkalmazási területe, napjainkban sportként él tovább. A honfoglalás kori (és annál is korábbi) magyarok a sztyeppei népekhez hasonlóan, életmódjukból fakadóan kiváló lovasíjászok voltak. Ezt tanúsítja a híres középkori fohász is: „A magyarok nyilaitól ments meg, Uram, minket!”. Visszacsapó íjakat használtak. Az íjászat az államalapítás után sem tűnt el Magyarországról. Mindig is voltak könnyűlovas egységek, akik ezt a harcmodort folytatták, például a székelyek és kunok. Az íj egészen a végvári harcok idejéig használatban maradt.
+Az íjászat a nyílvesszők íjjal való kilövését jelentő tevékenység, magyarul a nyilazás. A történelem során a vadászat és a hadviselés volt a két legfontosabb alkalmazási
+területe, napjainkban sportként él tovább. A honfoglalás kori (és annál is korábbi) magyarok a sztyeppei népekhez hasonlóan, életmódjukból fakadóan kiváló lovasíjászok voltak.
+Ezt tanúsítja a híres középkori fohász is: „A magyarok nyilaitól ments meg, Uram, minket!”. Visszacsapó íjakat használtak. Az íjászat az államalapítás után sem tűnt el
+Magyarországról. Mindig is voltak könnyűlovas egységek, akik ezt a harcmodort folytatták, például a székelyek és kunok. Az íj egészen a végvári harcok idejéig használatban
+maradt.
 
 
 
