@@ -40,8 +40,12 @@ Henger alapkörének területe: r * r * 3,14 = 2,25m * 2,25m * 3,14 =  15,89 m2
 Kúp térfogat: (r * r * 3,14 * H) / 3  = (2,25m * 2,25m * 3,14 * 2) / 3 =3,375
 
 Júrta légtér  = Henger Térfogata + Kúp térfogata = 31,7925 + 3,375 =  35,1675 m3
-Júrta beltere 35,1675 m3 
+Júrta beltere 35,1675 m3
+A kúp felszíne = henger alapkörének területe + r * 3,14 * (gyök(h"2+r"2=s"2)) = 15.89 m2 + 2,5m * 3,14m * gyök(10,25m) = 15.89m2 + 25,15m2 41,04m2
+Henger felszine: 2r2 * 3.14 * 2r *
 
+Bör:
+Nemez:
 
 
 Íjászat
