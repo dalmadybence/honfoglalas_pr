@@ -38,6 +38,7 @@ m = henger és a kúp magassága
 s = a kúp palást sugara
 Jurta átmérője: 4,5 méter
 Jurta magassága: 4 méter.
+lécek távolsága: 50cm 
 
 Jurta alakzata egy hengerből és kúpból áll.
 Henger Térfogat: r * r * 3,14 * m = 2,25m * 2,25m * 3,14 * 2m = 15,89 m**2 * 2m = 31,7925 m**3
@@ -53,7 +54,10 @@ Henger palást: 2r * 3,14 * m = 2 * 2,25 * 3,14 * 2 = 28,16m**2
 Bör: kúp palást + henger palást = 22,61m**2 + 28,26m**2 = 50,87m**2
 Nemez: kúp palást + henger palást = 22,61m**2 + 28,26m**2 = 50,87m**2
 Henger Léc hossza: gyök(50**2cm + 200**2cm) = gyök(42500) = 206,15cm
-Fa léc 2,06m : (henger alapkörének kerülete / 0,5m) *2 = (14,13m / 0.5) * 2 = 56db
+Kúp Léc hossza: gyök(r ** 2 + m ** 2) = gyök(2,25**2 + 2**2) = gyök(9,06)=3m
+Fa léc 2,06m : (henger alapkörének kerülete / lécek távolsága) *2 = (14,13m / 0.5) * 2 = 56db
+Fa léc 3m : (henger alapkörének kerülete / lécek távolsága) = (14,13m / 0.5) = 28db
+
 
 
 Íjászat
