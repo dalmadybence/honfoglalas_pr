@@ -35,14 +35,14 @@ Jurta magassága: 4 méter.
 Jurta belterének kiszámítása:
 
 r = henger alapkörének sugara
-m = heger és a kúp magasága
+m = henger és a kúp magassága
 s = a kúp palást sugara
 
 Jurta alakzata egy hengerből és kúpból áll.
 Henger Térfogat: r * r * 3,14 * m = 2,25m * 2,25m * 3,14 * 2m = 15,89 m**2 * 2m = 31,7925 m**3
-Henger alapkörének kerülete: 4,5* 3,14 = 14,13m
+Henger alapkörének kerülete: r * r * 3,14 = 14,13m
 Henger alapkörének területe: r * r * 3,14 = 2,25m * 2,25m * 3,14 =  15,89 m**2
-Kúp térfogat: (r * r * 3,14 * H) / 3  = (2,25m * 2,25m * 3,14 * 2) / 3 =3,375m**3
+Kúp térfogat: (r * r * 3,14 * m) / 3  = (2,25m * 2,25m * 3,14 * 2) / 3 =3,375m**3
 
 Júrta légtér  = Henger Térfogata + Kúp térfogata = 31,7925 + 3,375 =  35,1675 m**3
 Júrta beltere 35,1675 m**3
